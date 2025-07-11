@@ -1,5 +1,5 @@
 # sticky-popup
-Makes the Halo PSA "similar incidents" popup moveable and remember its last location when opening a new ticket.(Cript ran in Tampermonkey browser ext.)
+Makes the Halo PSA "similar incidents" popup moveable and remember its last location when opening a new ticket.(Script ran in Tampermonkey browser ext.)
 
 Currently, the popup window UI does not allow for the popup to be moved and have it remember its last location. I wrote a script so that it does not reset to the original position but instead sticks where I leave it so and I wont be moving it after opening every new ticket. 
 
